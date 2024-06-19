@@ -1,12 +1,8 @@
 module.exports = [
   {
     "text": "00-简介",
+    "link": "/00-简介/00-简介.md",
     "items": [
-      {
-        "text": "0-简介",
-        "link": "/00-简介/0-简介.md",
-        "collapsed": true
-      },
       {
         "text": "0.0-新的修订版",
         "link": "/00-简介/0.0-新的修订版.md",
