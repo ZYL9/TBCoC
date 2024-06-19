@@ -1,5 +1,10 @@
 module.exports = [
   {
+    "text": "0.关于",
+    "link": "/0.关于.md",
+    "collapsed": true
+  },
+  {
     "text": "00-简介",
     "link": "/00-简介/00-简介.md",
     "items": [

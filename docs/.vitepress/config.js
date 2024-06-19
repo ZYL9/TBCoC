@@ -7,7 +7,7 @@ module.exports = {
         logo: "/logo.png",
         nav: [
             { text: "Home", link: "/" },
-            { text: "Docs", link: "/0.简介/0.简介.md" },
+            { text: "Docs", link: "/00-简介/00-简介.md" },
             { text: "About", link: "/0.关于.md" }
         ],
 
