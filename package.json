@@ -4,9 +4,9 @@
     "fs-extra": "^11.2.0"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "generate-sidebar": "node generate-sidebar.js"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "prebuild": "node generate-sidebar.js"
   }
 }
