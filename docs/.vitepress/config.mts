@@ -6,6 +6,7 @@ import sidebar from "./sidebar";
 export default withPwa(
   defineConfig({
     title: "卡勒拜斯破碎的盟约",
+    head: [["link", { rel: "icon", href: "favicon.ico" }]],
     description: "The Broken Covenant of Calebais",
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
