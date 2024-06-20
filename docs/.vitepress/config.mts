@@ -10,7 +10,7 @@ export default withPwa(
     description: "The Broken Covenant of Calebais",
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
-      logo: "/logo.png",
+      logo: "/logo512.webp",
       nav: [
         { text: "Home", link: "/" },
         { text: "Docs", link: "/00-简介/00-简介.md" },
